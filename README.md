@@ -1,2 +1,2 @@
 # workflow-demo-2
-Hi everyone
+Demonstration of branches, merging, and git workflow.
